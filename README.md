@@ -5,5 +5,6 @@ Frontend Developer😎
 </BR>
 I am a Web Enthusiast👩‍💻,a beginner programmer and learner.
 </BR>
-HOW CAN CONNECT WITH ME🤔:
+</br>
 <hr color="black">
+HOW CAN CONNECT WITH ME🤔:
