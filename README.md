@@ -1,4 +1,5 @@
-                                                                                            ✨ABOUT ME✨
-HELLO ,I am BANDANA KUMARI NAYAK.
+                                                  ✨ABOUT ME✨
+<hr>
+Hello!I am BANDANA KUMARI NAYAK.
 </BR>
-I am pursuing my MCA from NIT JAMSHEDPUR.
+I am a Web Enthusiast,a beginner programmer and learner.
