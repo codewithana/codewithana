@@ -1,7 +1,7 @@
                                                   ✨ABOUT ME✨
 <hr>
+Frontend Developer😎</br>
 Hello!I am BANDANA KUMARI NAYAK.
-Frontend Developer😎
 </BR>
 I am a Web Enthusiast👩‍💻,a beginner programmer and learner.
 </BR>
