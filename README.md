@@ -1,6 +1,6 @@
  <h1 align="center">✨ABOUT ME✨</h1>
 <h1 align="center">Hi 👋, I'm BANDANA KUMARI NAYAK</h1>
-<h3 align="center">WEB ENTHUSIAST🙌 ,FRONTEND DEVELOPER😎</h3>
+<h3 align="center">WEB ENTHUSIAST🙌 ,MERN Stack DEVELOPER😎</h3>
 - I’m currently working on PROBLEM SOLVING(HACKERRANK) </br>
 - 📫 Reach me via email : anakumari23exam@gmail.com</br>
 <h3 align="left"> How you can Connect with me:</h3>
